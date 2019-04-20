@@ -1,0 +1,1143 @@
+{
+    "lens_id": "",
+    "document_id": "mQUc1sjbiMolkBDQOEcu",
+    "original_document_id": "BF_s6uk4q_xQSWxIO723",
+    "version": "14",
+    "lastChanged": "1555790677228",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "0",
+            "patch": "0",
+            "build": "1"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "0",
+            "patch": "0",
+            "build": "1"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Diffuse"
+                    ],
+                    [
+                        "Occluder"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Base"
+                    ],
+                    [
+                        "Textures",
+                        "Normal"
+                    ],
+                    [
+                        "Textures",
+                        "glases"
+                    ],
+                    [
+                        "Textures",
+                        "glases",
+                        "Animations"
+                    ],
+                    [
+                        "Textures",
+                        "glases",
+                        "Materials"
+                    ],
+                    [
+                        "Textures",
+                        "glases",
+                        "Meshes"
+                    ],
+                    [
+                        "Textures",
+                        "glases",
+                        "Meshes",
+                        "Plane"
+                    ],
+                    [
+                        "Textures",
+                        "glases",
+                        "Meshes",
+                        "Plane_2"
+                    ],
+                    [
+                        "Textures",
+                        "glases",
+                        "Meshes",
+                        "Plane_3"
+                    ],
+                    [
+                        "Textures",
+                        "glases",
+                        "glases"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ],
+                    [
+                        "glases"
+                    ],
+                    [
+                        "glases",
+                        "Animations"
+                    ],
+                    [
+                        "glases",
+                        "Materials"
+                    ],
+                    [
+                        "glases",
+                        "Meshes"
+                    ],
+                    [
+                        "glases",
+                        "Meshes",
+                        "Plane"
+                    ],
+                    [
+                        "glases",
+                        "Meshes",
+                        "Plane_2"
+                    ],
+                    [
+                        "glases",
+                        "Meshes",
+                        "Plane_3"
+                    ],
+                    [
+                        "glases",
+                        "glases"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "fb7f4145682df9de2746f848d94a5cfa",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                ""
+            ],
+            "lens": "UP Old Man",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false",
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1555785117424146:11104",
+                    "1555785207109852:12669",
+                    "1555785415086780:28703"
+                ]
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": ""
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1555785288845078:20182",
+                    "name": "Files\/File9",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1555785289073804:20217",
+                    "name": "Files\/File11.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1555785289146147:20232",
+                    "name": "Files\/File13.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1555786167028644:57133",
+                    "name": "Files\/File17.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1555786167059720:57146",
+                    "name": "Files\/File18.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1555786167088103:57159",
+                    "name": "Files\/File19.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1555786167111728:57251",
+                    "name": "glases",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1555786964362556:113940",
+                    "name": "Files\/File23.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1555786964392466:113953",
+                    "name": "Files\/File24.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1555786964420787:113966",
+                    "name": "Files\/File25.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1555786964445502:114058",
+                    "name": "glases",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1555788060272741:419423",
+                    "name": "Files\/File29",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1555785117423670:11100",
+                "4": "1555785117424146:11104",
+                "5": "1555785117428721:11137",
+                "6": "1555785207109852:12669",
+                "7": "1555786964440109:113979",
+                "8": "1555786964441338:113986",
+                "9": "1555786964442904:114010",
+                "10": "1555786964444158:114034",
+                "11": "1555787469880129:156140",
+                "12": "1555788087522456:419848"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.lsmat"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.png"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.png"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.png"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.png"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.mesh"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.mesh"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.mesh"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.oprfb"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.fbx"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.oprfb"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.mesh"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.mesh"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.mesh"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.oprfb"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.fbx"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.oprfb"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.lsmat"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "echopark_diff.png"
+                    },
+                    {
+                        "k": "2",
+                        "v": "echopark_spec.png"
+                    },
+                    {
+                        "k": "28",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "29",
+                        "v": "Textures\/Base.png"
+                    },
+                    {
+                        "k": "30",
+                        "v": "Textures\/Normal.png"
+                    },
+                    {
+                        "k": "31",
+                        "v": "Diffuse.lsmat"
+                    },
+                    {
+                        "k": "32",
+                        "v": "Textures\/glases.fbx"
+                    },
+                    {
+                        "k": "33",
+                        "v": "..\/AdditionalFiles\/Textures\/glases\/Materials"
+                    },
+                    {
+                        "k": "34",
+                        "v": "glases.fbx"
+                    },
+                    {
+                        "k": "35",
+                        "v": "..\/AdditionalFiles\/glases\/Materials"
+                    },
+                    {
+                        "k": "36",
+                        "v": "Occluder.lsmat"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "26",
+                        "v": "1214fd4a359774e68ba71e2856e82af6"
+                    },
+                    {
+                        "k": "29",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "30",
+                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                    },
+                    {
+                        "k": "31",
+                        "v": "f6da0b118135e5340a2f7e5ec0092c1a"
+                    },
+                    {
+                        "k": "32",
+                        "v": "1214fd4a359774e68ba71e2856e82af6"
+                    },
+                    {
+                        "k": "34",
+                        "v": "42b3f1fae80a41dc2ce86b79a801022f"
+                    },
+                    {
+                        "k": "36",
+                        "v": "3ebae66124e2cf22534cabef37990566"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2019-04-20T15:45:05",
+                        "name": "Public",
+                        "hash": "f25bbd3e7ac51bb50a93f103a39b5eaa",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-04-20T15:45:05",
+                                "name": "Diffuse.lsmat",
+                                "hash": "f6da0b118135e5340a2f7e5ec0092c1a",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-04-10T18:23:20",
+                                "name": "echopark_diff.png",
+                                "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-04-10T18:23:20",
+                                "name": "echopark_spec.png",
+                                "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-04-10T18:23:20",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-04-20T14:59:42",
+                                "name": "glases.fbx",
+                                "hash": "42b3f1fae80a41dc2ce86b79a801022f",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-04-20T15:21:00",
+                                "name": "Occluder.lsmat",
+                                "hash": "3ebae66124e2cf22534cabef37990566",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-04-20T15:30:37",
+                                "name": "Textures",
+                                "hash": "733bd13831693497f30405f06eac6656",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-04-20T14:34:48",
+                                        "name": "Base.png",
+                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-04-20T14:34:49",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-04-20T14:47:40",
+                                        "name": "glases.fbx",
+                                        "hash": "1214fd4a359774e68ba71e2856e82af6",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-04-20T14:34:48",
+                                        "name": "Normal.png",
+                                        "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
+                                        "children": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "8",
+                        "dependency": "0",
+                        "uid": "1517446348230286:84828",
+                        "fileId": "1",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "9",
+                        "dependency": "0",
+                        "uid": "1517446348234137:84840",
+                        "fileId": "2",
+                        "originalId": "18446744073709551615",
+                        "publicId": "2",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "28",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Base",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "16",
+                                "dependency": "0",
+                                "uid": "1555785289073804:20217",
+                                "fileId": "11",
+                                "originalId": "12",
+                                "publicId": "29",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Normal",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "17",
+                                "dependency": "0",
+                                "uid": "1555785289146147:20232",
+                                "fileId": "13",
+                                "originalId": "14",
+                                "publicId": "30",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "glases",
+                                "type": "18",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "uid": "-1:-1",
+                                "fileId": "21",
+                                "originalId": "18446744073709551615",
+                                "publicId": "32",
+                                "source": "C:\/Users\/Jake\/Desktop\/UP\/glases.fbx",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Meshes",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "1",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Plane",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "21",
+                                                "dependency": "1",
+                                                "uid": "1555786167028644:57133",
+                                                "fileId": "17",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Plane_2",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "22",
+                                                "dependency": "1",
+                                                "uid": "1555786167059720:57146",
+                                                "fileId": "18",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Plane_3",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "23",
+                                                "dependency": "1",
+                                                "uid": "1555786167088103:57159",
+                                                "fileId": "19",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Animations",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "1",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": ""
+                                    },
+                                    {
+                                        "name": "Materials",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "33",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": ""
+                                    },
+                                    {
+                                        "name": "glases",
+                                        "type": "12",
+                                        "subtype": "-1",
+                                        "resourceId": "24",
+                                        "dependency": "1",
+                                        "uid": "1555786167111728:57251",
+                                        "fileId": "20",
+                                        "originalId": "22",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Diffuse",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "15",
+                        "dependency": "0",
+                        "uid": "1555785288845078:20182",
+                        "fileId": "9",
+                        "originalId": "10",
+                        "publicId": "31",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/materials\/Diffuse.lsmat",
+                        "additional": ""
+                    },
+                    {
+                        "name": "glases",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "27",
+                        "originalId": "18446744073709551615",
+                        "publicId": "34",
+                        "source": "C:\/Users\/Jake\/Desktop\/UP\/glases.fbx",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Plane",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "25",
+                                        "dependency": "1",
+                                        "uid": "1555786964362556:113940",
+                                        "fileId": "23",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Plane_2",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "26",
+                                        "dependency": "1",
+                                        "uid": "1555786964392466:113953",
+                                        "fileId": "24",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Plane_3",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "27",
+                                        "dependency": "1",
+                                        "uid": "1555786964420787:113966",
+                                        "fileId": "25",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": ""
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "35",
+                                "source": "",
+                                "additional": "",
+                                "resources": ""
+                            },
+                            {
+                                "name": "glases",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "28",
+                                "dependency": "1",
+                                "uid": "1555786964445502:114058",
+                                "fileId": "26",
+                                "originalId": "28",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Occluder",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "29",
+                        "dependency": "0",
+                        "uid": "1555788060272741:419423",
+                        "fileId": "29",
+                        "originalId": "30",
+                        "publicId": "36",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/materials\/Occluder.lsmat",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1555785207109852:12669"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1555786964440109:113979",
+                        "v": {
+                            "prefab": "1555786964445502:114058",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1555786964440109:113979",
+                                    "v": "1555786964440109:113979"
+                                },
+                                {
+                                    "k": "1555786964441338:113986",
+                                    "v": "1555786964441338:113986"
+                                },
+                                {
+                                    "k": "1555786964441880:113990",
+                                    "v": "1555786964441880:113990"
+                                },
+                                {
+                                    "k": "1555786964442904:114010",
+                                    "v": "1555786964442904:114010"
+                                },
+                                {
+                                    "k": "1555786964443285:114014",
+                                    "v": "1555786964443285:114014"
+                                },
+                                {
+                                    "k": "1555786964444158:114034",
+                                    "v": "1555786964444158:114034"
+                                },
+                                {
+                                    "k": "1555786964444469:114038",
+                                    "v": "1555786964444469:114038"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1555786167111728:57251",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1555786167106760:57172"
+                        },
+                        {
+                            "k": [
+                                "Plane"
+                            ],
+                            "v": "1555786167108551:57203"
+                        },
+                        {
+                            "k": [
+                                "Plane",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1555786167108932:57207"
+                        },
+                        {
+                            "k": [
+                                "Plane.001"
+                            ],
+                            "v": "1555786167107193:57179"
+                        },
+                        {
+                            "k": [
+                                "Plane.001",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1555786167107511:57183"
+                        },
+                        {
+                            "k": [
+                                "Plane.002"
+                            ],
+                            "v": "1555786167110143:57227"
+                        },
+                        {
+                            "k": [
+                                "Plane.002",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1555786167110533:57231"
+                        }
+                    ]
+                },
+                {
+                    "k": "1555786964445502:114058",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1555786964440109:113979"
+                        },
+                        {
+                            "k": [
+                                "Plane"
+                            ],
+                            "v": "1555786964442904:114010"
+                        },
+                        {
+                            "k": [
+                                "Plane",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1555786964443285:114014"
+                        },
+                        {
+                            "k": [
+                                "Plane.001"
+                            ],
+                            "v": "1555786964441338:113986"
+                        },
+                        {
+                            "k": [
+                                "Plane.001",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1555786964441880:113990"
+                        },
+                        {
+                            "k": [
+                                "Plane.002"
+                            ],
+                            "v": "1555786964444158:114034"
+                        },
+                        {
+                            "k": [
+                                "Plane.002",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1555786964444469:114038"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
